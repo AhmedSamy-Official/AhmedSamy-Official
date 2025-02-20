@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Games<br>🌱 I’m currently learning Low Code<br>💬 Ask me about C++<br>⚡ Fun fact i'm a human 😊
+🔭 I’m currently working on WireFrame<br>🌱 I’m currently learning Low Level Code<br>💬 Ask me about C++<br>⚡ Fun fact i'm a human 😊
 
 
 ## 🌐 Socials:
